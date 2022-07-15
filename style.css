@@ -1,0 +1,25 @@
+button{
+    all: unset;
+}
+
+a{
+    all: unset;
+}
+
+.font{
+    font-family: 'Raleway', sans-serif;
+}
+
+.background{
+    background-color: rgb(27, 26, 26);
+}
+
+.centered{
+    position: relative;
+    width: 50%;
+    height: auto;
+    left: 50%;
+    transform: translate(-50%);
+    background-color: yellow;
+
+}
